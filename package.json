@@ -1,0 +1,24 @@
+{
+  "name": "w3css",
+  "version": "0.1.0",
+  "description": "W3 School CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srbala/w3css.git"
+  },
+  "keywords": [
+    "css",
+    "ui",
+    "framework"
+  ],
+  "author": "Bala Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srbala/w3css/issues"
+  },
+  "homepage": "https://github.com/srbala/w3css#readme"
+}
